@@ -1,54 +1,48 @@
-# VR Games
-I'm going to make 6 VR games (prototypes) this year. 0.5 VR game a month.
+# VR ゲーム
+最近、XR（VR/AR/MR）が人気推移を見せているので、
+VRゲームを作りたかったです。
+商業用ではなく趣味にしたので、
+デモバージョンでのみ製作しました。
 
-## 3. Five seconds [VR Hamburger Consuming Simulator]
+## 3. 5 秒 [VR ハンバーガー消費シミュレーター]
 
-![Five Seconds](FiveSeconds/5sec.gif)
+![5 秒](FiveSeconds/5sec.gif)
 
-The goal is to consume hamburgers when they land on the ground before their 5 seconds timer is passed. 
+目標は、5 秒のタイマーが経過する前にハンバーガーが地面に落ちたときにそれを消費することです。
 
-The VR Game is heavily inspired by "Dorohedoro" and "How I met your mother" TV shows.
+この VR ゲームは、「ドロヘドロ」や「ママと恋する理由」などのテレビ番組から大きな影響を受けています。
 
-[DevLog](https://twitter.com/Volorf/status/1275877461222395906)
+[Oculus Quest の APK をダウンロード](FiveSeconds/5sec.apk)
 
-[Download APK for Oculus Quest](FiveSeconds/5sec.apk)
+**ツール**:
+* **音楽**: Beepbox
+* **3D エディター**: Blender
+* **ゲーム エンジン**: Unity 3D
+* **プラットフォーム**: Oculus Quest
 
-**Tools**:
-* **Music**: Beepbox
-* **3D Editor**: Blender
-* **Game Engine**: Unity 3D
-* **Platform**: Oculus Quest
-
-
-## 2. Paper Against Viruses [VR Shooter]
+## 2. Paper Against Viruses [VR シューティング]
 
 ![Paper Against Viruses](PaperAgainstViruses/papervsviruses.gif)
 
-You are a secret agent of a secret health organization. The organization made you small like a bunch of atoms and sent you to fight against a hazardous unknown disease. It turned out that it was aliens from a different parallel world.
+あなたは秘密医療組織の秘密エージェントです。組織はあなたを原子の塊のように小さくし、危険な未知の病気と戦うために送り込みました。それは別のパラレル ワールドから来たエイリアンであることが判明しました。
 
-[DevLog](https://twitter.com/Volorf/status/1240911612007112705)
+[Oculus Quest の APK をダウンロード](PaperAgainstViruses/PaperAgainstViruses.apk)
 
-[Download APK for Oculus Quest](PaperAgainstViruses/PaperAgainstViruses.apk)
+**ツール**:
+* **音楽**: Ableton Live
+* **ゲーム エンジン**: Unity 3D
+* **プラットフォーム**: Oculus Quest
 
-**Tools**:
-* **Music**: Ableton Live
-* **Game Engine**: Unity 3D
-* **Platform**: Oculus Quest
-
-
-## 1. Apopalypse [VR Shooter]
+## 1. Apopalypse [VR シューティング]
 
 ![Apopalypse](Apopalypse/apopalypse.gif)
 
-It's an incredible story about a war against balloons. Ballons suck people's souls to be inflated, and your mission is to stop them from doing this.
+これは風船との戦いに関する素晴らしい物語です。風船は人々の魂を吸い取って膨らませます。あなたの使命は、風船が膨らまないように阻止することです。
 
-[DevLog](https://twitter.com/Volorf/status/1203958100945969153)
+[Oculus Quest の APK をダウンロード](Apopalypse/Apopalypse.apk)
 
-[Download APK for Oculus Quest](Apopalypse/Apopalypse.apk)
-
-**Tools**:
-* **Music**: Garage Band
-* **Sound FX**: Apple's Voice Memos
-* **Game Engine**: Unity 3D
-* **Platform**: Oculus Quest
-
+**ツール**:
+* **音楽**: Garage Band
+* **サウンド FX**: Apple のボイスメモ
+* **ゲーム エンジン**: Unity 3D
+* **プラットフォーム**: Oculus Quest
